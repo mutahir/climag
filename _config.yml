@@ -45,7 +45,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/climag/category/:name/'
+    category: '/category/:name/'
     
 # Pagination 
 paginate: 6
