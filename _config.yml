@@ -2,8 +2,8 @@
 name: "technical tunes"
 title: "technical tunes"
 description: "notes | rants | thoughts | command snips | /etc."
-logo: 'climag/assets/images/logo.png'
-favicon: 'climag/assets/images/logo.png'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/logo.png'
 baseurl: '/climag'
 google_analytics: ''
 disqus: ''
@@ -45,7 +45,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/climag/category/:name/'
     
 # Pagination 
 paginate: 6
